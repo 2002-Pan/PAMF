@@ -1,1 +1,1 @@
-code in :10.6084/m9.figshare.28208666
+code in :https://figshare.com/articles/dataset/Pymapdl_code_PAMF_/28208666
